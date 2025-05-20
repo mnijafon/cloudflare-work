@@ -133,7 +133,7 @@ dist
 
 .temp
 .cache
-
+.wrangler.jsonc
 # Docusaurus cache and generated files
 
 .docusaurus
